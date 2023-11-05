@@ -1,4 +1,4 @@
-# Functional requirements and notes - 5:05:29
+# Functional requirements and notes - 6:31:44
 
 # compile runner terminal code - npx gulp
 
@@ -17,4 +17,4 @@ Prefers-color-scheme media query
 Accessibility
 
 - Use correct heading tags
-- Screenreader-only text for card titles/username -- https:// www.accessibility-developer-guide.com/examples/hiding-elements/visually/
+- Screenreader-only text for card titles/username -- https://www.accessibility-developer-guide.com/examples/hiding-elements/visually/
